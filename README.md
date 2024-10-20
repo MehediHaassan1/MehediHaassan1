@@ -1,5 +1,8 @@
+<img src="https://i.ibb.co.com/fqv3KqD/cover.png" alt="Mehedi hassan Barat/>
+
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
+<p align="center">I’m a MERN stack developer focused on building user-friendly and efficient web applications. My goal is to create simple, well-designed products that provide a great user experience. I work with MongoDB, Express, React, and Node.js to deliver high-quality, responsive applications. I’m always learning new technologies and aim to continuously improve while contributing to the developer community.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihaassan1&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihaassan1" /> </p>
 
