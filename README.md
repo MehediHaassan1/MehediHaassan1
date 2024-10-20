@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co.com/fqv3KqD/cover.png" alt="Mehedi hassan Barat/>
+<p align="center">
+  <img src="https://i.ibb.co.com/fqv3KqD/cover.png" alt="Mehedi hassan Barat"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
