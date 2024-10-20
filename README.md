@@ -6,7 +6,7 @@
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihaassan1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Fahim's GitHub streak"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihaassan1&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="mehedihaassan1"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedihaassan1&label=Profile%20views&color=0e75b6&style=flat" alt="mehedihaassan1" /> </p>
@@ -39,5 +39,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedihaassan1&show_icons=true&locale=en&layout=compact" alt="mehedihaassan1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedihaassan1&show_icons=true&locale=en" alt="mehedihaassan1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedihaassan1&" alt="mehedihaassan1" /></p>
