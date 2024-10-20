@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/fqv3KqD/cover.png" alt="Mehedi hassan Barat"/>
+  <img src="[https://i.ibb.co.com/fqv3KqD/cover.png](https://i.ibb.co.com/fqv3KqD/cover.png)" alt="Mehedi hassan Barat"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Mehedi Hassan Barat</h1>
